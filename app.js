@@ -24,7 +24,7 @@ function exibirMensagemInicial() {
 }
 exibirMensagemInicial();
 
-// Função para verificar o clique de um botãos
+// função para verificar o chute do jogador
 function verificarChute() {
   let chute = document.querySelector("input").value;
   if (chute == numeroSecreto) {
