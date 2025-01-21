@@ -31,3 +31,11 @@ Durante o desenvolvimento deste projeto, os seguintes conceitos foram trabalhado
 1. Clone este repositório:
    ```bash
    git clone https://github.com/joaodev021/jogo-numero-secreto.git
+
+
+# Jogo do Número Secreto
+
+## 🖼️ Prévia do Jogo
+
+![Prévia do Jogo](img/preview.png)
+
