@@ -46,7 +46,7 @@ function verificarChute() {
 
 // Função sem parâmetros usando return
 function gerarNumeroAleatorio() {
-  let numeroEscolhido = parseInt(Math.random() * numeroLimite + 1); // Retorna um número aleatório entre 1 e 4
+  let numeroEscolhido = parseInt(Math.random() * numeroLimite + 1); // Retorna um número aleatório entre 1 e 10
   let quantidadeDeElementosNaLista = listaDeNumerosSorteados.length;
 
   if (quantidadeDeElementosNaLista == numeroLimite) {
